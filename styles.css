@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+/* Colors for elements within the page */
+
+.blue_background{
+    background-color: #1f2937
+}
+
+.button, .advert{
+    background-color: #3882f6;
+}
+
+.quote{
+    background-color: #e5e7eb;
+}
